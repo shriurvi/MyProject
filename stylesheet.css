@@ -1,4 +1,150 @@
 h1
 {
-    color:red;
+    color:blanchedalmond;
+    margin-top:35%;
+    margin-left: 35%;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    color:sienna;
+    margin-left:35%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color:skyblue;
+}
+.image
+{
+    margin-top: 10%;
+}
+.nav
+{
+    margin-top: 10px;
+}
+.img{
+margin-left: 30%;
+
+}
+h3{
+    margin-top:7px;
+    letter-spacing: 6px;
+    color:darkblue
+}
+p{
+    margin-right:25%;
+    font-size:large;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing:1px;
+    margin-top:5%;
+}
+button{
+    background-color:cornflowerblue;
+    border:none;
+    border-radius: 5px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color:cornsilk;
+    font: bolder;
+}
+.nav{
+    padding-top:10px;
+    background-color: mediumpurple;
+    border-radius: 4px;
+    color:midnightblue;
+    position: fixed;
+    width:100%;
+    top:0;
+    overflow: hidden;
+}
+.logo li{
+    font-size: 25px;
+    font-weight:bold;
+    font-style: italic;
+    display: block;
+}
+li{
+   list-style: none;
+   float:left;
+}
+.detail{
+padding-left:65%;
+}
+.detail li{
+    padding-left: 40px;
+    font-size:18px ;
+    padding-top:5px;
+    font-weight:bold;
+    display: block;
+}
+.main
+{
+    margin-top: 30px;
+}
+.card
+{
+    margin-left: 300px;
+    border:none;
+}
+.bootstarp
+{
+    background-color:darksalmon;
+    padding-bottom: 20px;
+    height:110px;
+}
+.mysql
+{
+    background-color:darkorange;
+    margin-right: 35px;
+}
+.java
+{
+    background-color: darkcyan;
+}
+.js
+{
+    background-color: yellowgreen;
+}
+.html
+{
+    height:60px;
+    background-color:sienna;
+    
+  
+}
+.css{
+    background-color:lightcoral;
+}
+.card:hover{
+    transform:scale(1.05);
+    box-shadow: 0 4px 8px 0 grey;
+    color:lightcyan;
+    background-color: indigo;
+}
+.footer 
+{
+   
+    background-color:brown;
+}
+
+.fa-phone
+{
+    padding-left:80px;
+    color:darkblue;
+    font-weight: bolder;
+}
+.fa-envelope
+{
+    color:darkblue;
+}
+a{
+    padding-left:60px;
+}
+.footer a{
+    padding-left: 30px;
+}
+.fa-twitter
+{
+    color:orangered;
 }
